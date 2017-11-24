@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrackKeeper</string>
+
+    <!--  Buttons  -->
+    <string name="add_subject_button">+</string>
+    <string name="add_entry_button">New entry</string>
+
+
+
+
+</resources>
